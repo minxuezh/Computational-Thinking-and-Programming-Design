@@ -1,2 +1,2 @@
-# Introduction-to-Data-Science
+# Computational Thinking and Programming Design
 Course Homework
